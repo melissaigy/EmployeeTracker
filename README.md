@@ -15,7 +15,7 @@
   ## [Installation](#table-of-contents)
   The user will use the command "node index.js" to start the application.
   ## [Usage](#table-of-contents)
-  
+    ![Info in the database is shown.](../usage.png)
   ## [Contributing](#table-of-contents)
   I am not accepting contributions at this time.
   ## [Tests](#table-of-contents)
