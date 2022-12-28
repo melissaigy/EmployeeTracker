@@ -15,9 +15,9 @@
   ## [Installation](#table-of-contents)
   The user will use the command "node index.js" to start the application.
   ## [Usage](#table-of-contents)
-    ![Info in the database is shown.](/image/usage.png)
+    <img src="./image/usage.png">
      Link to video of the usage.
-  https://drive.google.com/file/d/1CPRhaAcjL9FzpL7vfg2qtuIjHRYB0dw4/view
+   View walkthrough video here - [Screencastify](https://drive.google.com/file/d/1CPRhaAcjL9FzpL7vfg2qtuIjHRYB0dw4/view)
   ## [Contributing](#table-of-contents)
   I am not accepting contributions at this time.
   ## [Tests](#table-of-contents)
