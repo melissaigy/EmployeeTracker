@@ -15,12 +15,14 @@
   ## [Installation](#table-of-contents)
   The user will use the command "node index.js" to start the application.
   ## [Usage](#table-of-contents)
-    ![Info in the database is shown.](../usage.png)
+    ![Info in the database is shown.](/image/usage.png)
+     Link to video of the usage.
+  https://drive.google.com/file/d/1CPRhaAcjL9FzpL7vfg2qtuIjHRYB0dw4/view
   ## [Contributing](#table-of-contents)
   I am not accepting contributions at this time.
   ## [Tests](#table-of-contents)
   
   ## [Questions](#table-of-contents)
-  Please contact me using the following links:
-  [GitHub](https://github.com/melissaigy)
+  Please contact me using the following links: <br>
+  [GitHub](https://github.com/melissaigy) <br>
   [Email: melissaigyarto@gmail.com](mailto:melissaigyarto@gmail.com)
